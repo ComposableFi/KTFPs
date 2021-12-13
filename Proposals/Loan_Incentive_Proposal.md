@@ -62,6 +62,10 @@ Based on an aggregate incentives-eligible Total Value Locked of $ 80 mln, the in
 
 The duration of the program is 3 months. The program could be renewed at expiration in case one or more success metrics have not reached their targets.
 
+**Risks**
+
+The main risks involved are related to protocol risk, oracle risk code failures that could put customers' fund in danger. 
+
 **Contact Info**
 
 0xbrainjar: 0xbrainjar@composable.finance
