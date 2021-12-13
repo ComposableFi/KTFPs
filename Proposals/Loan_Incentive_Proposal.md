@@ -11,7 +11,7 @@
 
 ## Summary
 
-Provide a $ 5 million loan to lending protocols to kick-start the money market activity on the Kusama ecosystem
+Provide a $ 5 million KSM loan to lending protocols to kick-start the money market activity on the Kusama ecosystem
 
 
 ## Proposal
