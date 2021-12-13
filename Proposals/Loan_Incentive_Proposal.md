@@ -48,9 +48,9 @@ The goal is for incentives to be transferred through a trustless mechanism that 
 
 The incentive program will be evaluated based on the 3-month increase in:
 
-*Daily active accounts: success will be achieved with an increase of +100 average daily active users
-*Transaction volume per daily active accounts: success will be achieved with an increase of + $ 5,000 transaction voluem per daily active account
-*Total Value Locked: success will be achieved with an increase of + $ 100 mln in Total Value Locked 
+* Daily active accounts: success will be achieved with an increase of +100 average daily active users
+* Transaction volume per daily active accounts: success will be achieved with an increase of + $ 5,000 transaction voluem per daily active account
+* Total Value Locked: success will be achieved with an increase of + $ 100 mln in Total Value Locked 
 
 **Profit projections**
 
