@@ -44,4 +44,4 @@ The proposed loan size amounts to $ 5 million KSM for a duration of three months
 
 0xbrainjar: 0xbrainjar@composable.finance
 
-Github: 
+Github: https://github.com/ComposableFi/KTFPs/tree/master/Proposals
