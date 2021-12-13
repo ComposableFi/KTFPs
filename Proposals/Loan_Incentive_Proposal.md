@@ -3,10 +3,10 @@
 
 
 * **KFTP Number:** [To be assigned once it's merged into the master]
-* **Authors:** [Name and Email or GitHub Username]
+* **Authors:** 0xbrainjar - 0xbrainjar@composable.finance
 * **KSM Proposer:** [KSM Address of the Proposer]
 * **KSM Receivers:** [Receiving KSM Address(es)]
-* **Total Amount:** [KSM]
+* **Total Amount:** 17,243.00 KSM
 * **Created:** [2021-12-13]
 
 ## Summary
