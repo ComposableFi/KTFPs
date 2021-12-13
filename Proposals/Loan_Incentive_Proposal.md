@@ -40,6 +40,28 @@ Projects like Angular Finance, an isolated lending pair pallet built on top of C
 
 The proposed loan size amounts to $ 5 million KSM for a duration of three months. At expiration date, protocols that received funds will pay the $ 5 million loan back to the Kusama treasury plus any earnings collected during the duration of the loan.
 
+**Technical implementation**
+
+The goal is for incentives to be transferred through a trustless mechanism that leverages XCM to send funds to specific projects' vaults. However, that's currently not possible since the XCM implementation is still in progress.
+
+**Success metrics**
+
+The incentive program will be evaluated based on the 3-month increase in:
+
+*Daily active accounts: success will be achieved with an increase of +100 average daily active users
+*Transaction volume per daily active accounts: success will be achieved with an increase of + $ 5,000 transaction voluem per daily active account
+*Total Value Locked: success will be achieved with an increase of + $ 100 mln in Total Value Locked 
+
+**Profit projections**
+
+Based on an aggregate incentives-eligible Total Value Locked of $ 80 mln, the incentive program will provide a 25% APR achieved through KSM incentives. Projects can provide additional incentives in the form of native tokens.
+
+**Table**
+
+**Time horizon**
+
+The duration of the program is 3 months. The program could be renewed at expiration in case one or more success metrics have not reached their targets.
+
 **Contact Info**
 
 0xbrainjar: 0xbrainjar@composable.finance
