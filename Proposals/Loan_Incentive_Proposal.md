@@ -77,7 +77,7 @@ The table below shows the expected evolution of success metrics and the related 
 | Total APR on starting TVL                      |      |     30%|     30%|     30%|
 | Total APR on actual TVL                        |      |     19%|     14%|     11%|
 
-The allocation among project recipients in shown below
+The allocation among project recipients in shown below (data in $ mln)
 
 |                | Eligible TVL | Kusama incentives | Native incentives |
 |----------------|-------------:|------------------:|------------------:|
@@ -96,7 +96,7 @@ The duration of the program is 3 months. The program could be renewed at expirat
 
 **Risks**
 
-The main risks involved are related to protocol risk, oracle risk code failures that could put customers' fund in danger. 
+The main risks involved are related to protocol risk, oracle risk and code failures that could result in losses of customers' funds. 
 
 **Contact Info**
 
