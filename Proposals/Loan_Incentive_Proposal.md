@@ -117,4 +117,4 @@ The main risks involved are protocol risk, oracle risk, and code failures that c
 
 0xbrainjar: 0xbrainjar@composable.finance
 
-```Github: https://github.com/ComposableFi/KTFPs/tree/master/Proposals```
+Github: https://github.com/ComposableFi/KTFPs/tree/master/Proposals
