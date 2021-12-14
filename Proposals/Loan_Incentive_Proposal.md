@@ -34,7 +34,11 @@ Projects like Angular Finance, an isolated lending pair pallet built on top of C
 
 **Proposal**
 
- Unlock $ 5 million KSM from the Kusama treasury that will be lent to Angular Finance or other lending projects aimed at kick-starting usage of DeFi applications. 
+ Unlock $ 5 million KSM from the Kusama treasury in the form of a loan to Angular Finance or other lending projects aimed at kick-starting usage of DeFi applications. 
+
+**The rationale behind the loan**
+
+Whilst these incentive programs are common for other networks, we are aware that this is a new step for Kusama and we are therefore using this proposal to pursue a loan rather than direct liquidity incentives. We feel that this aligns incentives with the participating protocols, in order to use the loan as a proof of concept to illustrate the potential effectiveness of such a program going forward
 
 **Treasury request**
 
