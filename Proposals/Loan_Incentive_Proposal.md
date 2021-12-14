@@ -61,7 +61,7 @@ Based on an aggregate incentives-eligible Total Value Locked of $ 80 mln, the in
 The table below shows the expected evolution of success metrics and the related APR achievable through both Kusama and native incentives at an aggregate level
 
 |                                                | As-is| Month 1| Month 2| Month 3|
-|------------------------------------------------|------|--------|--------|--------|
+|------------------------------------------------|-----:|-------:|-------:|-------:|
 | Avg. daily active accounts                     |   638|     682|     726|     770|
 | Avg. daily transaction volume   ($/mln)        |    27|      31|      36|      40|
 | Avg. transaction volume per   active account   | 42470|   45955|   49018|   51731|
