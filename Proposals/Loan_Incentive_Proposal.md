@@ -56,24 +56,26 @@ The incentive program will be evaluated based on the 3-month increase in:
 
 Based on an aggregate incentives-eligible Total Value Locked of $ 80 mln, the incentive program will provide a 25% APR achieved through KSM incentives. Projects can provide additional incentives in the form of native tokens.
 
-**Table**
+**Incentives APR**
 
-|                                                | As-is | Month 1 | Month 2 | Month 3 |
-|------------------------------------------------|-------|---------|---------|---------|
-| Avg. daily active accounts                     |   638 |     682 |     726 |     770 |
-| Avg. daily transaction volume   ($/mln)        |    27 |      31 |      36 |      40 |
-| Avg. transaction volume per   active account   | 42470 |   45955 |   49018 |   51731 |
-|                                                |       |         |         |         |
-| TVL $ mln (incentive   recipient)              |    80 |     126 |     172 |     218 |
-| Kusama incentives ($ mln)                      |       |    1.67 |    1.67 |    1.67 |
-| Native incentives ($ mln)                      |       |    0.33 |    0.33 |    0.33 |
-| Total incentives ($ mln)                       |       |    2.00 |    2.00 |    2.00 |
-|                                                |       |         |         |         |
-| APR on starting TVL (Kusama   incentives only) |       |     25% |     25% |     25% |
-| APR on actual TVL (Kusama   incentives only)   |       |     16% |     12% |      9% |
-|                                                |       |         |         |         |
-| Total APR on starting TVL                      |       |     30% |     30% |     30% |
-| Total APR on actual TVL                        |       |     19% |     14% |     11% |
+The table below shows the expected evolution of success metrics and the related APR achievable through both Kusama and native incentives at an aggregate level
+
+|                                                | As-is| Month 1| Month 2| Month 3|
+|------------------------------------------------|------|--------|--------|--------|
+| Avg. daily active accounts                     |   638|     682|     726|     770|
+| Avg. daily transaction volume   ($/mln)        |    27|      31|      36|      40|
+| Avg. transaction volume per   active account   | 42470|   45955|   49018|   51731|
+|                                                |      |        |        |        |
+| TVL $ mln (incentive   recipient)              |    80|     126|     172|     218|
+| Kusama incentives ($ mln)                      |      |    1.67|    1.67|    1.67|
+| Native incentives ($ mln)                      |      |    0.33|    0.33|    0.33|
+| Total incentives ($ mln)                       |      |    2.00|    2.00|    2.00|
+|                                                |      |        |        |        |
+| APR on starting TVL (Kusama   incentives only) |      |     25%|     25%|     25%|
+| APR on actual TVL (Kusama   incentives only)   |      |     16%|     12%|      9%|
+|                                                |      |        |        |        |
+| Total APR on starting TVL                      |      |     30%|     30%|     30%|
+| Total APR on actual TVL                        |      |     19%|     14%|     11%|
 
 **Time horizon**
 
