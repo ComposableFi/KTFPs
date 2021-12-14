@@ -44,6 +44,13 @@ The proposed loan size amounts to $ 5 million KSM for a duration of three months
 
 The goal is for incentives to be transferred through a trustless mechanism that leverages XCM to send funds to specific projects' vaults. However, that's currently not possible since the XCM implementation is still in progress.
 
+**Incentive allocation criteria**
+
+The metrics used to determine the incentive allocation across lending protocols will take into account:
+
+* Total Value Locked in the protocol
+* Number of protocol active users
+
 **Success metrics**
 
 The incentive program will be evaluated based on the 3-month increase in:
@@ -93,6 +100,10 @@ The allocation among project recipients in shown below (data in $ mln)
 **Time horizon**
 
 The duration of the program is 3 months. The program could be renewed at expiration in case one or more success metrics have not reached their targets.
+
+**Default event**
+
+In the event of default, protocols that received incentives from Kusama will repay the loan through their native tokens following the process explained in the "Technical implementation" subsection.
 
 **Risks**
 
