@@ -105,7 +105,7 @@ The allocation among project recipients in shown below (data in $ mln)
 
 The duration of the program is 3 months. The program could be renewed at expiration in case one or more success metrics have not reached their targets.
 
-**Default event**
+**Repayment**
 
 In the event of default, protocols that received incentives from Kusama will repay the loan through their native tokens following the process explained in the "Technical implementation" subsection.
 
