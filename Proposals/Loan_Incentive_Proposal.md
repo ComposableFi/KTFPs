@@ -18,7 +18,7 @@ Provide a $ 5 million KSM loan to lending protocols to kick-start the money mark
 
 **Context**
 
-Kusama needs a structured incentive program to attract customers and showcase its unlimited potential in scalability, efficiency, and cross-chain interoperability.
+Kusama needs a structured incentive program to attract customers and showcase its unlimited scalability, efficiency, and cross-chain interoperability potential.
 However, incentives should be wisely directed towards activities that, if adequately rewarded, create a positive feedback loop with a resulting exponential increase in liquidity gathered from outside. 
 Lending is one of the essential pillars in a well-functioning DeFi ecosystem because it allows customers to capture opportunities without compromising capital efficiency. 
 
@@ -34,25 +34,25 @@ Projects like Angular Finance, an isolated lending pair pallet built on top of C
 
 **Proposal**
 
- Unlock $ 5 million KSM from the Kusama treasury in the form of a loan to Angular Finance or other lending projects aimed at kick-starting usage of DeFi applications. 
+Unlock $ 5 million KSM from the Kusama treasury in the form of a loan to Angular Finance or other lending projects aimed at kick-starting usage of DeFi applications. 
 
 **The rationale behind the loan**
 
-Whilst these incentive programs are common for other networks, we are aware that this is a new step for Kusama and we are therefore using this proposal to pursue a loan rather than direct liquidity incentives. We feel that this aligns incentives with the participating protocols, in order to use the loan as a proof of concept to illustrate the potential effectiveness of such a program going forward
+While these incentive programs are standard for other networks, we know that this is a new step for Kusama. Therefore, we use this proposal to pursue a loan rather than direct liquidity incentives. We feel that this aligns incentives with the participating protocols to use the loan as a proof of concept to illustrate the potential effectiveness of such a program in the future.
 
 **Treasury request**
 
-The proposed loan size amounts to $ 5 million KSM for a duration of three months. At expiration date, protocols that received funds will pay the $ 5 million loan back to the Kusama treasury plus any earnings collected during the duration of the loan.
+The proposed loan size amounts to $ 5 million KSM for three months. At the expiration date, protocols that receive funds will pay the $ 5 million loan back to the Kusama treasury plus any earnings collected during the loan duration.
 
 **Technical implementation**
 
-The goal is for incentives to be transferred through a trustless mechanism that leverages XCM to send funds to specific projects' vaults. However, that's currently not possible since the XCM implementation is still in progress.
+The goal is to transfer incentives through a trustless mechanism that leverages XCM to send funds to specific projects' vaults. However, that's not possible since the XCM implementation is still in progress.
 
 **Incentive allocation criteria**
 
 The metrics used to determine the incentive allocation across lending protocols will take into account:
 
-* Total Value Locked in the protocol not below $ 15 mln
+* Total Value Locked in the protocol, not below $ 15 mln
 * Number of protocol active users not below a certain threshold (to be defined)
 
 **Success metrics**
@@ -60,7 +60,7 @@ The metrics used to determine the incentive allocation across lending protocols 
 The incentive program will be evaluated based on the 3-month increase in:
 
 * Daily active accounts: success will be achieved with an increase of +100 average daily active users
-* Transaction volume per daily active accounts: success will be achieved with an increase of + $ 5,000 transaction voluem per daily active account
+* Transaction volume per daily active accounts: success will be achieved with an increase of + $ 5,000 transaction volume per daily active account
 * Total Value Locked: success will be achieved with an increase of + $ 100 mln in Total Value Locked 
 
 **Profit projections**
@@ -69,7 +69,7 @@ Based on an aggregate incentives-eligible Total Value Locked of $ 80 mln, the in
 
 **Incentives APR**
 
-The table below shows the expected evolution of success metrics and the related APR achievable through both Kusama and native incentives at an aggregate level
+The table below shows the expected evolution of success metrics and the related APR achievable through both Kusama and native incentives at an aggregate level:
 
 |                                                | As-is| Month 1| Month 2| Month 3|
 |------------------------------------------------|-----:|-------:|-------:|-------:|
@@ -88,7 +88,7 @@ The table below shows the expected evolution of success metrics and the related 
 | Total APR on starting TVL                      |      |     30%|     30%|     30%|
 | Total APR on actual TVL                        |      |     19%|     14%|     11%|
 
-The allocation among project recipients in shown below (data in $ mln)
+The allocation among project recipients is shown below (data in $ mln):
 
 |                | Eligible TVL | Kusama incentives | Native incentives |
 |----------------|-------------:|------------------:|------------------:|
@@ -103,7 +103,7 @@ The allocation among project recipients in shown below (data in $ mln)
 
 **Time horizon**
 
-The duration of the program is 3 months. The program could be renewed at expiration in case one or more success metrics have not reached their targets.
+The duration of the program is three months. The program could be renewed at expiration if one or more success metrics have not reached their targets.
 
 **Repayment**
 
@@ -111,7 +111,7 @@ In the event of default, protocols that received incentives from Kusama will rep
 
 **Risks**
 
-The main risks involved are related to protocol risk, oracle risk and code failures that could result in losses of customers' funds. 
+The main risks involved are protocol risk, oracle risk, and code failures that could result in losses of customers' funds. 
 
 **Contact Info**
 
