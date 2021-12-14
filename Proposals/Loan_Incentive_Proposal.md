@@ -48,8 +48,8 @@ The goal is for incentives to be transferred through a trustless mechanism that 
 
 The metrics used to determine the incentive allocation across lending protocols will take into account:
 
-* Total Value Locked in the protocol
-* Number of protocol active users
+* Total Value Locked in the protocol not below $ 15 mln
+* Number of protocol active users not below a certain threshold (to be defined)
 
 **Success metrics**
 
