@@ -50,7 +50,7 @@ The goal is to transfer incentives through a trustless mechanism that leverages 
 
 **Custody**
 
-Protocols receiving incentives from Kusama treasury will custody such funds in a multisig wallet to increase security, leverage collective sinergies among the ecosystem and prevent malicious behavior of incentives recipients.
+Incentives lent from Kusama treasury will be deposited in a multisig wallet to increase security, leverage collective sinergies among the ecosystem and prevent malicious behavior of incentives recipients.
 
 **Incentive allocation criteria**
 
