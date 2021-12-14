@@ -88,17 +88,17 @@ The table below shows the expected evolution of success metrics and the related 
 | Total APR on starting TVL                      |      |     30%|     30%|     30%|
 | Total APR on actual TVL                        |      |     19%|     14%|     11%|
 
-The allocation among project recipients is shown below (data in $ mln):
+The allocation among project recipients is shown below (data for illustration purpose only, $ mln):
 
 |                | Eligible TVL | Kusama incentives | Native incentives |
 |----------------|-------------:|------------------:|------------------:|
-| Basilisk       |         28.4 |               1.8 |               0.4 |
-| Parallel Heiko |         21.9 |               1.4 |               0.3 |
-| Altair         |         15.5 |               1.0 |               0.2 |
-| Angular        |          9.0 |               0.6 |               0.1 |
-| Genshiro       |          5.2 |               0.3 |               0.1 |
+| Protocol 1     |           16 |                 1 |               0.2 |
+| Protocol 2     |           16 |                 1 |               0.2 |
+| Protocol 3     |           16 |                 1 |               0.2 |
+| Protocol 4     |           16 |                 1 |               0.2 |
+| Protocol 5     |           16 |                 1 |               0.2 |
 |                |              |                   |                   |
-| Total          |         80.0 |               5.0 |               1.0 |
+| Total          |           80 |                 5 |                 1 |
 
 
 **Time horizon**
