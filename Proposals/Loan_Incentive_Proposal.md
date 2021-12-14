@@ -48,6 +48,10 @@ The proposed loan size amounts to $ 5 million KSM for three months. At the expir
 
 The goal is to transfer incentives through a trustless mechanism that leverages XCM to send funds to specific projects' vaults. However, that's not possible since the XCM implementation is still in progress.
 
+**Custody**
+
+Protocols receiving incentives from Kusama treasury will custody such funds in a multisig wallet to increase security and prevent malicious behavior of incentives recipients.
+
 **Incentive allocation criteria**
 
 The metrics used to determine the incentive allocation across lending protocols will take into account:
