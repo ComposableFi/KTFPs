@@ -46,9 +46,11 @@ The proposed loan size amounts to $ 5 million KSM for three months. At the expir
 
 **Technical implementation**
 
-The goal is to transfer incentives through a trustless mechanism that leverages XCM to send funds to specific projects' vaults. However, that's not possible since the XCM implementation is still in progress.
+The deployment of funds needs to be explicit.
 
-Therefore, the transfer will occur from the relay chain to the smart contracts.
+The goal is to transfer incentives through a trustless mechanism that leverages XCM to send funds to specific vaults. However, that's impossible since the XCM implementation is still in progress.
+
+Therefore, the transfer will occur from the relay chain to the smart contracts to ensure that the deployment is functionally trustless.
 
 **Custody**
 
