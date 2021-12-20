@@ -46,15 +46,11 @@ The proposed loan size amounts to $ 5 million KSM for three months. At the expir
 
 **Technical implementation**
 
-The deployment of funds needs to be explicit.
+The deployment of funds should be explicit, and voted on a per-allocation request, completely executable through extrinsics.
 
-The goal is to transfer incentives through a trustless mechanism that leverages XCM to send funds to specific vaults. However, that's impossible since the XCM implementation is still in progress.
+The goal is to transfer incentives through a trustless mechanism that leverages XCM to send funds to specific chains. Each chain requesting an allocation must be reachable over XCMP and offer means for the treasury to manage these funds over XCMP.
 
-Therefore, the transfer will occur from the relay chain to the smart contracts to ensure that the deployment is functionally trustless.
-
-**Custody**
-
-Incentives lent from Kusama treasury will be deposited in a multisig wallet entitled to all protocols to increase security, leverage collective sinergies among the ecosystem and prevent malicious behavior of incentives recipients.
+It is understood that XCMP has not fully matured yet. Teams wishing to request an allocation will need to spend considerable engineering effort to ensure that the previous requirements can be met.
 
 **Incentive allocation criteria**
 
